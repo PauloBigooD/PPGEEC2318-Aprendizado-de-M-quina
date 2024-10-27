@@ -1,1 +1,1 @@
-# PPGEEC2318-Aprendizado-de-M-quina
+# PPGEEC2318 Aprendizado de Máquina
