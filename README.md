@@ -7,6 +7,9 @@
 
 ## Chapter 1: Overview of Machine Learning Systems
 
+#### Abstract:
+This chapter discusses how Machine Learning (ML) systems have been integrated on a large scale, especially after advances such as Google's neural translation system. It explains that although ML has become an essential technology in several industries, its practical use requires a complex framework that goes far beyond algorithms.
+
   `Link:`
 
 ## Chapter 2: Introduction to Machine Learning
