@@ -1,6 +1,9 @@
-# PPGEEC2318 Aprendizado de Máquina
+# PPGEEC2318 Machine Learning
 
-  Student: Paulo Eduardo da Silva Júnior
+### Student: Paulo Eduardo da Silva Júnior
+
+### Objective:
+ - Create five videos, one for each of the first five chapters of Designing Machine Learning Systems by Chip Huyen summarizing the key points of its respective chapter.
 
 ## Chapter 1: Overview of Machine Learning Systems
 
