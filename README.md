@@ -3,7 +3,7 @@
 ### Student: Paulo Eduardo da Silva Júnior
 
 ### Objective:
- - Create five videos, one for each of the first five chapters of Designing Machine Learning Systems by Chip Huyen summarizing the key points of its respective chapter.
+ - Create five videos, one for each of the first five chapters of __Designing Machine Learning Systems by Chip Huyen__ summarizing the key points of its respective chapter.
 
 ## Chapter 1: Overview of Machine Learning Systems
 
