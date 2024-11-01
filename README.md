@@ -14,16 +14,28 @@ This chapter discusses how Machine Learning (ML) systems have been integrated on
 
 ## Chapter 2: Introduction to Machine Learning
 
+#### Abstract:
+The chapter explores how to plan and build Machine Learning (ML) systems, highlighting that the design of an ML system must consider the context of MLOps and all its components, such as business objectives, infrastructure, monitoring, and system adaptation.
+
   `Link:`
 
 ## Chapter 3: Data Engineering Fundamentals
+
+#### Abstract:
+The chapter explores everything from data formats and models to data storage, processing, and transfer strategies. Understanding these foundations is essential for developing production ML systems. In particular, it highlights the importance of selecting storage formats and engines that enable the efficiency and flexibility needed to handle large volumes and velocity of data.
 
   `Link:`
 
 ## Chapter 4: Training Data
 
+#### Abstract:
+The chapter emphasizes that dealing with training data is an iterative process and full of challenges. Sampling, labeling, and imbalance-handling techniques help create representative and unbiased data to train robust and effective models.
+
   `Link:`
 
 ## Chapter 5: Feature Engineering
+
+#### Abstract:
+• The chapter explores how to create and manage relevant features to improve the effectiveness of Machine Learning (ML) models. Feature engineering is vital to the success of ML projects, requiring domain expertise and best practices such as temporal division of data, appropriate scaling, and constant monitoring of the features used.
 
   `Link:`
