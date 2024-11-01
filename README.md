@@ -5,6 +5,8 @@
 ### Objective:
  - Create five videos, one for each of the first five chapters of __Designing Machine Learning Systems by Chip Huyen__ summarizing the key points of its respective chapter.
 
+`All material produced in this repository was obtained from reading the book Designing Machine Learning Systems by Chip Huyen.`
+
 ## Chapter 1: Overview of Machine Learning Systems
 
 #### Abstract:
