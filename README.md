@@ -7,6 +7,8 @@
 
 `All material produced in this repository was obtained from reading the book Designing Machine Learning Systems by Chip Huyen.`
 
+`I apologize in advance for the level of my English, I'm still training to improve this skill. Thank you for understanding.`
+
 ## Chapter 1: Overview of Machine Learning Systems
 
 #### Abstract:
@@ -34,7 +36,7 @@ The chapter explores everything from data formats and models to data storage, pr
 #### Abstract:
 The chapter emphasizes that dealing with training data is an iterative process and full of challenges. Sampling, labeling, and imbalance-handling techniques help create representative and unbiased data to train robust and effective models.
 
-  `Link:`
+[![Chapter_4](https://img.shields.io/badge/-Link_video_Chapter_4-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.loom.com/share/292f09882c2f482d9102e0b7c6ae6bcc?sid=cf2b1ba5-783c-410f-8f98-42e100e37a5c")](https://www.loom.com/share/292f09882c2f482d9102e0b7c6ae6bcc?sid=cf2b1ba5-783c-410f-8f98-42e100e37a5c)
 
 ## Chapter 5: Feature Engineering
 
