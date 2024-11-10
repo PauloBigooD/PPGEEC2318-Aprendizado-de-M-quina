@@ -12,7 +12,7 @@
 #### Abstract:
 This chapter discusses how Machine Learning (ML) systems have been integrated on a large scale, especially after advances such as Google's neural translation system. It explains that although ML has become an essential technology in several industries, its practical use requires a complex framework that goes far beyond algorithms.
 
-  `Link:`
+[![Chapter 1](https://img.shields.io/badge/-Link_Chapter_1-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.loom.com/share/7f7c6f273c03440aa8f1524877ab5323?sid=dc9c52cf-0d47-420c-9925-92b33d93dced/")]([https://www.ufrn.br](https://www.loom.com/share/7f7c6f273c03440aa8f1524877ab5323?sid=dc9c52cf-0d47-420c-9925-92b33d93dced))
 
 ## Chapter 2: Introduction to Machine Learning
 
