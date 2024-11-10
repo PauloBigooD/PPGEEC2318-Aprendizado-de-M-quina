@@ -19,7 +19,8 @@ This chapter discusses how Machine Learning (ML) systems have been integrated on
 #### Abstract:
 The chapter explores how to plan and build Machine Learning (ML) systems, highlighting that the design of an ML system must consider the context of MLOps and all its components, such as business objectives, infrastructure, monitoring, and system adaptation.
 
-  `Link:`
+  [![Chapter_2](https://img.shields.io/badge/-Link_video_Chapter_2-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.loom.com/share/1bc172333d82481cacd141afbc2fac56?sid=63e06eae-fdbf-4e57-bc2d-765eba084399")](https://www.loom.com/share/1bc172333d82481cacd141afbc2fac56?sid=63e06eae-fdbf-4e57-bc2d-765eba084399)
+
 
 ## Chapter 3: Data Engineering Fundamentals
 
