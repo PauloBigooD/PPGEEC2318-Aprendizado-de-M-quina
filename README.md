@@ -19,7 +19,7 @@ This chapter discusses how Machine Learning (ML) systems have been integrated on
 #### Abstract:
 The chapter explores how to plan and build Machine Learning (ML) systems, highlighting that the design of an ML system must consider the context of MLOps and all its components, such as business objectives, infrastructure, monitoring, and system adaptation.
 
-  [![Chapter_2](https://img.shields.io/badge/-Link_video_Chapter_2-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.loom.com/share/1bc172333d82481cacd141afbc2fac56?sid=63e06eae-fdbf-4e57-bc2d-765eba084399")](https://www.loom.com/share/1bc172333d82481cacd141afbc2fac56?sid=63e06eae-fdbf-4e57-bc2d-765eba084399)
+[![Chapter_2](https://img.shields.io/badge/-Link_video_Chapter_2-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.loom.com/share/1bc172333d82481cacd141afbc2fac56?sid=63e06eae-fdbf-4e57-bc2d-765eba084399")](https://www.loom.com/share/1bc172333d82481cacd141afbc2fac56?sid=63e06eae-fdbf-4e57-bc2d-765eba084399)
 
 
 ## Chapter 3: Data Engineering Fundamentals
@@ -27,7 +27,7 @@ The chapter explores how to plan and build Machine Learning (ML) systems, highli
 #### Abstract:
 The chapter explores everything from data formats and models to data storage, processing, and transfer strategies. Understanding these foundations is essential for developing production ML systems. In particular, it highlights the importance of selecting storage formats and engines that enable the efficiency and flexibility needed to handle large volumes and velocity of data.
 
-  `Link:`
+[![Chapter_3](https://img.shields.io/badge/-Link_video_Chapter_3-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.loom.com/share/a6385018048f4c78a7a53ee1fc6c3eb0?sid=bd403493-b868-4ae4-bae6-fcef737cb98f")](https://www.loom.com/share/a6385018048f4c78a7a53ee1fc6c3eb0?sid=bd403493-b868-4ae4-bae6-fcef737cb98f)
 
 ## Chapter 4: Training Data
 
