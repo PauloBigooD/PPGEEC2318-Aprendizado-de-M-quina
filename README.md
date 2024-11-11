@@ -61,7 +61,7 @@ The chapter emphasizes that dealing with training data is an iterative process a
 #### Abstract:
 • The chapter explores how to create and manage relevant features to improve the effectiveness of Machine Learning (ML) models. Feature engineering is vital to the success of ML projects, requiring domain expertise and best practices such as temporal division of data, appropriate scaling, and constant monitoring of the features used.
 
-[![Video_Chapter_5](https://img.shields.io/badge/-Link_video_Chapter_5-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.loom.com/share/292f09882c2f482d9102e0b7c6ae6bcc?sid=cf2b1ba5-783c-410f-8f98-42e100e37a5c")](https://www.loom.com/share/292f09882c2f482d9102e0b7c6ae6bcc?sid=cf2b1ba5-783c-410f-8f98-42e100e37a5c)
+[![Video_Chapter_5](https://img.shields.io/badge/-Link_video_Chapter_5-blue?style=plastic&logo=telephone&logoColor=white&link=https://www.loom.com/share/313fa36032124f0cb5aa83bef6c0bb06")](https://www.loom.com/share/313fa36032124f0cb5aa83bef6c0bb06)
 
 [![Book_Chapter_5](https://img.shields.io/badge/-Book_Chapter_5-green?style=plastic&logo=telephone&logoColor=white&link=https://github.com/PauloBigooD/PPGEEC2318-Machine-Learning/blob/main/chapters/Chapter-5-Feature%20Engineering-139-168.pdf")](https://github.com/PauloBigooD/PPGEEC2318-Machine-Learning/blob/main/chapters/Chapter-5-Feature%20Engineering-139-168.pdf)
 
