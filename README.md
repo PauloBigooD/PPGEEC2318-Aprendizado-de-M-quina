@@ -1,5 +1,7 @@
 # PPGEEC2318 - Machine Learning
 
+`This repository is the result of a hands-on activity applied in the PPGEEC2318 Machine Learning curricular component.`
+
 ### Student: Paulo Eduardo da Silva Júnior
 
   <img src="https://m.media-amazon.com/images/I/81aSHEzSB1L.jpg" min-width="220px" max-width="220px" width="220px" align="right" alt="Designing Machine Learning Systems by Chip Huyen">
